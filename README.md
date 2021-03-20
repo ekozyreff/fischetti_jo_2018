@@ -1,2 +1,1 @@
-# fischetti_jo_2018
-Implementation of ideas of the paper
+This code is an implementation of some of the ideas described in the paper "Deep neural networks and mixed integer linear optimization", by M. Fischetti and J. Jo (https://doi.org/10.1007/s10601-018-9285-6). It requires Gurobi with a valid license.
