@@ -1,4 +1,4 @@
-# A connection between Integer Programming and Neural Networks
+# Connections between Integer Programming and Neural Networks
 
 This code is an implementation of some of the ideas described in the paper "Deep neural networks and mixed integer linear optimization", by M. Fischetti and J. Jo (https://doi.org/10.1007/s10601-018-9285-6). It requires the solver **Gurobi** (https://www.gurobi.com/) installed with a valid license.
 
