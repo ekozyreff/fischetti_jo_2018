@@ -12,4 +12,4 @@ The images below show the original image (classified as a 7) and the modified im
 
 ![ogirinal and modified images](73.png "Original image (7) and modified image (3)")
 
-This project was build with the intent of investigating the relationship of integer programming and deep learning with an applied example. A post describing this project in more detail was published [here](https://www.linkedin.com/pulse/how-fool-neural-network-ern%25C3%25A9e-kozyreff-filho/).
+This project was build with the intent of investigating the relationship of integer programming and deep learning with an applied example.
